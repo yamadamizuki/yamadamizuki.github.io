@@ -1,8 +1,18 @@
-# yamadamizuki.github.io
+# wiki-maker
 
+> A Vue.js project
 
-## 概要
-SKIYAKI所属のFE 山田瑞基のツールを公開してる場所
+## Build Setup
 
-## 目次
-・[skiyaki wiki maker](https://yamadamizuki.gihub.io/wiki_maker)
+``` bash
+# install dependencies
+npm install
+
+# serve with hot reload at localhost:8080
+npm run dev
+
+# build for production with minification
+npm run build
+```
+
+For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
